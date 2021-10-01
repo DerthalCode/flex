@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: #eee;
+    width: 100%;
+    margin: 0 auto;
+    height: 700px;
+}
+
+header{
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    background-color: blue;
+    width: 100%;
+    text-align: center;
+}
+.hero{
+    background-color: purple;
+
+
+}
+main{
+    background-color: yellow;
+}
+.sidebar{
+    background-color: green;
+}
+.extracontent{
+    background-color: grey;
+}
